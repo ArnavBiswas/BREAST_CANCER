@@ -61,7 +61,7 @@ This is a group project developed by:
 
 Member 1 - Arnav Biswas
 
-Member 2 - Suryashis Banerjee
+Member 2 - Suryashis Banerjee (https://github.com/Suryashis4)
 
 We both have contributed for model training and data modeling.
 
