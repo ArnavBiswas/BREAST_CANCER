@@ -55,6 +55,17 @@ This project is an AI-powered system that predicts whether a tumor is **malignan
 
 ---
 
+👥 Group Details
+
+This is a group project developed by:
+
+Member 1 - Arnav Biswas
+
+Member 2 - Suryashis Banerjee
+
+We both have contributed for model training and data modeling.
+
+
 
 
 
